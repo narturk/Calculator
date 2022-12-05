@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/narturk/Calculator.git"
   },
-  "author": "",
+  "author": "narturk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/narturk/Calculator/issues"
   },
-  "homepage": "https://github.com/narturk/Calculator#readme"
+  "homepage": "https://github.com/narturk/Calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
